@@ -94,6 +94,7 @@ export const portfolio: PortfolioData = {
   projects: [
     {
       name: "VARUNA-AI",
+      githubUrl: "https://github.com/rajath-poojary/VARUNA-AI",
       problemStatement: "Regime-aware AI post-processing of monsoon rainfall forecasts.",
       solution:
         "Team project exploring AI post-processing of monsoon rainfall forecasts, supported by ML-ready rainfall and weather-variable datasets.",

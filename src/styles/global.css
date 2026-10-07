@@ -373,6 +373,13 @@ button {
   background: var(--color-surface);
 }
 
+.button--text {
+  min-height: auto;
+  padding: 0.3rem 0;
+  border: 0;
+  color: var(--color-accent);
+}
+
 .hero__scroll,
 .hero__index {
   position: absolute;
